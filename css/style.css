@@ -1,0 +1,23 @@
+body {
+  background: green;
+}
+.centrado {
+  margin-left: 200px;
+  height: 400px;
+  width: 150px;
+  border: solid blue 5px;
+}
+.datos{
+  padding: 3px 0px 3px 9px;
+}
+#frente, #fondo {
+  text-align: right;
+}
+.derecha{
+  background: white;
+  float: left;
+  margin-left: 200px;
+  height: 150px;
+  width: 400px;
+  border: dotted red 5px;
+}
