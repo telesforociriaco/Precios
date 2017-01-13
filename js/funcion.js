@@ -16,6 +16,8 @@ function calculo() {
     setTimeout(function(){window.location.href = 'cotizador.html'},2000);
     }
 }
+
+
 function precio(totalM,tipo){
   if (tipo == 'terremo') {
     return totalM * 1110;
